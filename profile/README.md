@@ -24,6 +24,8 @@
 | [rofi-yubikey-oath](https://github.com/Amodio/rofi-yubikey-oath) | Rofi plugin to provide TOTP codes from a Yubikey. | ![GitHub stars](https://img.shields.io/github/stars/Amodio/rofi-yubikey-oath?style=flat&logo=github&label=) |
 | [labar](https://github.com/Amodio/labar) | Lightweight launch bar (dock) for Wayland. | ![GitHub stars](https://img.shields.io/github/stars/Amodio/labar?style=flat&logo=github&label=) |
 
+You can list my [Github pull requests](https://github.com/pulls?q=is:pr+involves:Amodio+-user:Amodio) from external repositories.
+
 ---
 
 ## 📊 Github stats
