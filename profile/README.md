@@ -20,7 +20,7 @@
 | [ctfd-helper](https://github.com/Amodio/ctfd-helper) | Alternative and local web interface for CTFd events (save flags submissions, etc). | ![GitHub stars](https://img.shields.io/github/stars/Amodio/ctfd-helper?style=flat&logo=github&label=) |
 | [dac-amp_3D-support](https://github.com/Amodio/dac-amp_3D-support) | Great audio setup for a low budget; 3D model to stack the amp on the DAC. | ![GitHub stars](https://img.shields.io/github/stars/Amodio/dac-amp_3D-support?style=flat&logo=github&label=) |
 | [gspreadsheets-finance](https://github.com/Amodio/gspreadsheets-finance) | Google Spreadsheets financial scripts. | ![GitHub stars](https://img.shields.io/github/stars/Amodio/gspreadsheets-finance?style=flat&logo=github&label=) |
-| [cemantbot](https://github.com/Amodio/cemantix) | Bot for solving the daily **Cémantix / Cemantle** (FR / EN) word‑guessing games (Tampermonkey extension + standalone python script). | ![GitHub stars](https://img.shields.io/github/stars/Amodio/cemantix?style=flat&logo=github&label=) |
+| [cemantbot](https://github.com/Amodio/cemantix) | Bot for solving the daily **Cémantix / Cemantle** (FR / EN) word‑guessing games (Tampermonkey browser extension + standalone python script). | ![GitHub stars](https://img.shields.io/github/stars/Amodio/cemantix?style=flat&logo=github&label=) |
 | [rofi-yubikey-oath](https://github.com/Amodio/rofi-yubikey-oath) | Rofi plugin to provide TOTP codes from a Yubikey. | ![GitHub stars](https://img.shields.io/github/stars/Amodio/rofi-yubikey-oath?style=flat&logo=github&label=) |
 | [labar](https://github.com/Amodio/labar) | Lightweight launch bar (dock) for Wayland. | ![GitHub stars](https://img.shields.io/github/stars/Amodio/labar?style=flat&logo=github&label=) |
 
